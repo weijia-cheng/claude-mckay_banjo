@@ -1,10 +1,3 @@
-# Dedication {.dedication epub:type=preface} 
-
-
-[For Ruthhope]{.small-caps}
-
-
-
 #  First Part
 
 ::: part-title
