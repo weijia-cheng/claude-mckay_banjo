@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-3.xhtml">
+		<ignore code="y-024">
+			<line>51</line>
+			<reason>Intentional use of dialect.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-6.xhtml">
+		<ignore code="y-024">
+			<line>118</line>
+			<reason>Intentional use of dialect.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-14.xhtml">
+		<ignore code="t-003">
+			<line>64</line>
+			<reason>False positive from continued dialog.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
