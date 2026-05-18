@@ -8,13 +8,13 @@
 	</file>
 	<file path="chapter-6.xhtml">
 		<ignore code="y-024">
-			<line>118</line>
+			<line>117</line>
 			<reason>Intentional use of dialect.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-14.xhtml">
 		<ignore code="t-003">
-			<line>64</line>
+			<line>62</line>
 			<reason>False positive from continued dialog.</reason>
 		</ignore>
 	</file>
