@@ -49,9 +49,9 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A band of beachcombers join together to live the vagrant life in Marseilles.</dc:description>
+		<dc:description id="description">A band of beachcombers join together to live as vagrants in Marseilles.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>The second novel published by <a href="https://standardebooks.org/ebooks/claude-mckay">Claude McKay</a>, <i>Banjo</i> follows a band of beachcombers, made up of members of the African diaspora, as they go about their lives as vagrants in Marseilles. Their de facto leader is the titular Banjo, an easygoing African-American musician and veteran of World War I, who aspires to assemble the band of beach boys together as an orchestra. The novel also follows Ray, an itinerant Haitian writer and intellectual who debuted in Claude McKay’s first novel, <a href="https://standardebooks.org/ebooks/claude-mckay/home-to-harlem"><i>Home to Harlem</i></a>. Structured as a seriess of vignettes, <i>Banjo</i> explores themes of Pan-Africanism and transnational racial identity in its depiction of the international black precariat.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://nealcaren.github.io/crisis-and-opportunity-books/banjo.html</dc:source>
